@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "luxury House",
+      "adress": "tanta",
+      "price": "30K$",
+      "img": "/assets/property1.jpg",
+      "description":" This beautiful family home features 4 bedrooms, 3 baths, and a spacious backyard."
+    },
+    {
+      "id": "2",
+      "name": "Luxury Apartment",
+      "adress": "cairo",
+      "price": "30K$",
+      "img": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+      "description": "This beautiful family home features 4 bedrooms, 3 baths, and a spacious backyard."
+    },
+    {
+      "id": "3",
+      "name": "Modern Villa",
+      "adress": "New Cairo",
+      "price": "150K$",
+      "img": "/assets/property2.jpg",
+      "description": "A stylish modern villa with 5 bedrooms, 4 bathrooms, a pool, and a private garage."
+    },
+
+    {
+      "id": "4",
+      "name": "Sea View Apartment",
+      "adress": "Alexandria",
+      "price": "85K$",
+      "img": "https://images.unsplash.com/photo-1554995207-c18c203602cb",
+      "description": "Enjoy breathtaking sea views from this 3-bedroom apartment with modern finishing."
+    },
+   
+  
+    {
+      "id": "5",
+      "name": "Mountain Cabin",
+      "adress": "Fayoum",
+      "price": "50K$",
+      "img": "/assets/item2.jpeg",
+      "description": "Peaceful retreat cabin located near the mountains, perfect for weekend getaways."
+    },
+   
+    {
+      "id": "6",
+      "name": "Beach House",
+      "adress": "North Coast",
+      "price": "130K$",
+      "img": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "description": "A charming beach house with direct access to the sea and spacious patio."
+    },
+   
+    {
+      "id": "7",
+      "name": "Skyline Apartment",
+      "adress": "New Giza",
+      "price": "105K$",
+      "img": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
+      "description": "Apartment with panoramic views, located on the top floor of a modern tower."
+    }
+   
+
+    ]
+  }
